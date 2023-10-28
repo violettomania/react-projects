@@ -6,6 +6,9 @@ import { data } from './data';
 function App() {
   const [persons, setPersons] = useState(data);
 
+  const handleClick = () =>
+    persons.length ? setPersons([]) : setPersons(data);
+
   return (
     <main>
       <div className='container'>
@@ -13,7 +16,9 @@ function App() {
         {persons.map((person) => (
           <Person key={person.id} {...person} />
         ))}
-        <button onClick={() => setPersons([])}>clear all</button>
+        <button onClick={handleClick}>
+          {persons.length ? 'clear all' : 'reload'}
+        </button>
       </div>
     </main>
   );
