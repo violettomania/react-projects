@@ -1,4 +1,4 @@
-export const portraits = [
+export const persons = [
   {
     id: 1,
     name: 'Bertie Yates',
