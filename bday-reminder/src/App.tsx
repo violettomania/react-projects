@@ -16,6 +16,7 @@ function App() {
             </div>
           );
         })}
+        <button>clear all</button>
       </div>
     </main>
   );
