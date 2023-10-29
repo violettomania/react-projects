@@ -1,0 +1,3 @@
+[submodule "bday-reminder"]
+	path = bday-reminder
+	url = git@github.com:violettomania/react-projects.git
