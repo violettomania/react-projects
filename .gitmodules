@@ -3,4 +3,4 @@
 	url = git@github.com:violettomania/bday-reminder.git
 [submodule "tours"]
 	path = tours
-	url = git@github.com:violettomania/react-projects.git
+	url = git@github.com:violettomania/tours.git
