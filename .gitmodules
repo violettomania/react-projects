@@ -4,3 +4,6 @@
 [submodule "tours"]
 	path = tours
 	url = git@github.com:violettomania/tours.git
+[submodule "reviews"]
+	path = reviews
+	url = git@github.com:violettomania/react-projects.git
