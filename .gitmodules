@@ -10,4 +10,3 @@
 [submodule "questions"]
 	path = questions
 	url = git@github.com:violettomania/react-projects.git
-	url = " "
