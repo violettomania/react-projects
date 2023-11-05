@@ -9,4 +9,4 @@
 	url = git@github.com:violettomania/reviews.git
 [submodule "questions"]
 	path = questions
-	url = git@github.com:violettomania/react-projects.git
+	url = git@github.com:violettomania/questions.git
