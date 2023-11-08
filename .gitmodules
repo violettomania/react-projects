@@ -15,4 +15,4 @@
 	url = git@github.com:violettomania/menu.git
 [submodule "tabs"]
 	path = tabs
-	url = git@github.com:violettomania/react-projects.git
+	url = git@github.com:violettomania/tabs.git
