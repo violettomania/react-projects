@@ -16,3 +16,6 @@
 [submodule "tabs"]
 	path = tabs
 	url = git@github.com:violettomania/tabs.git
+[submodule "slider"]
+	path = slider
+	url = git@github.com:violettomania/react-projects.git
