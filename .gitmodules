@@ -18,4 +18,4 @@
 	url = git@github.com:violettomania/tabs.git
 [submodule "slider"]
 	path = slider
-	url = git@github.com:violettomania/react-projects.git
+	url = git@github.com:violettomania/slider.git
