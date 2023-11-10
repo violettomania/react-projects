@@ -21,4 +21,4 @@
 	url = git@github.com:violettomania/slider.git
 [submodule "lorem-ipsum"]
 	path = lorem-ipsum
-	url = git@github.com:violettomania/react-projects.git
+	url = git@github.com:violettomania/lorem-ipsum.git
