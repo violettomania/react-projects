@@ -24,4 +24,4 @@
 	url = git@github.com:violettomania/lorem-ipsum.git
 [submodule "color-generator"]
 	path = color-generator
-	url = git@github.com:violettomania/react-projects.git
+	url = git@github.com:violettomania/color-generator.git
