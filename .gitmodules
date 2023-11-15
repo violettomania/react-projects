@@ -25,3 +25,6 @@
 [submodule "color-generator"]
 	path = color-generator
 	url = git@github.com:violettomania/color-generator.git
+[submodule "grocery-bud"]
+	path = grocery-bud
+	url = git@github.com:violettomania/react-projects.git
