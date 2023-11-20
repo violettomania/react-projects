@@ -33,4 +33,4 @@
 	url = git@github.com:violettomania/navbar.git
 [submodule "sidebar-and-modal"]
 	path = sidebar-and-modal
-	url = git@github.com:violettomania/react-projects.git
+	url = git@github.com:violettomania/sidebar-and-modal.git
