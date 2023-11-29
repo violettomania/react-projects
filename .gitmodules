@@ -37,3 +37,6 @@
 [submodule "strapi"]
 	path = strapi
 	url = git@github.com:violettomania/strapi.git
+[submodule "cart"]
+	path = cart
+	url = git@github.com:violettomania/react-projects.git
