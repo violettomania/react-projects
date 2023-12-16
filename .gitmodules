@@ -40,3 +40,6 @@
 [submodule "cart"]
 	path = cart
 	url = git@github.com:violettomania/cart.git
+[submodule "unsplash-images"]
+	path = unsplash-images
+	url = git@github.com:violettomania/react-projects.git
